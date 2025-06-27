@@ -14,9 +14,49 @@
 
 body {
     background-color: var(--yellow);
-    font-family: var(--font-family);
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
+    margin-top: 8rem;
+    font-family: var(--font-family);
 }
+
+.card-container {
+    background-color: var(--white);
+    max-width: 320px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    border: 1px solid black;
+    border-radius: 15px;
+    box-shadow: 10px 5px 2px;
+}
+
+.card {
+    padding: 1.4rem;
+}
+
+figure img {
+    border-radius: 15px;
+    max-width: 275px;
+}
+
+.button {
+    display: inline-block;
+    background-color: var(--yellow);
+    padding: 0.5rem;
+    border-radius: 5px;
+    font-weight: bold;
+    margin: 1rem 0 1rem 0;
+}
+
+.published-date {
+    font-size: 0.75rem;
+    margin-bottom: 1rem;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+
+  
