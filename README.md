@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/tasha-marie/blog-preview-card-main)
-- Live Site URL: [Add live site URL here](https://tasha-marie.github.io/blog-preview-card-main/)
+- Solution URL: [Solution](https://github.com/tasha-marie/blog-preview-card-main)
+- Live Site URL: [Live Site](https://tasha-marie.github.io/blog-preview-card-main/)
 
 ### Built with
 
